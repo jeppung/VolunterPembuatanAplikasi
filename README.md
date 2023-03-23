@@ -8,3 +8,4 @@ PR with format<br>
 List of Accepted Contributor:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Jeppung Backup, [Linkedin](https://oo.or.id).
